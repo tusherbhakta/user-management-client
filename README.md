@@ -89,7 +89,3 @@ The following API endpoints from the **User Management Server** are consumed:
 
 ## Conclusion
 This project serves as a foundational learning experience for building React-based client applications and integrating them with a backend API. It's a great starting point for more advanced client-server projects.
-
----
-
-You can personalize the details above, such as the repository link, technologies, or features, to better suit your project.
